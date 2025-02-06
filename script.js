@@ -1,7 +1,7 @@
 // Example product data for Twisty website
 const products = [
-    { id: 1, name: "Black Jacket", price: "$49.99", image: "images/black-jacket.jpg" },
-    { id: 2, name: "White Sneakers", price: "$69.99", image: "images/white-sneakers.jpg" },
+    { id: 1, name: "Krunker", price: "$49.99", image: "images/black-jacket.jpg" },
+    { id: 2, name: "Masson", price: "$69.99", image: "images/white-sneakers.jpg" },
     { id: 3, name: "Blue Jeans", price: "$39.99", image: "images/blue-jeans.jpg" },
     { id: 4, name: "Red Dress", price: "$59.99", image: "images/red-dress.jpg" }
 ];
